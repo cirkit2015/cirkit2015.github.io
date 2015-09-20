@@ -1,3 +1,12 @@
+@font-face{
+	font-family: "Subway";
+	src: url(../fonts/SubwayLogo.ttf);
+}
+
+h1{
+	font-family: "Subway";
+}
+
 html,body,.container-fluid{
 	height:100%;
 }
@@ -11,13 +20,16 @@ col{
 
 #Tools{
 	text-align: center;
+	font-family: "Subway";
 }
 #Canvas{
 	text-align: center;
+	font-family: "Subway";
 }
 
 #Tutorial{
 	text-align: center;
+	font-family: "Subway";
 }
 
 .border1{
