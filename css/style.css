@@ -82,14 +82,18 @@ img {
 }
 
 #LEDDown{
+	position: relative;
 	transform: rotate(90deg);
 	width: 10%;
 	height: 10%;
 	clear: left;
+	top: 30px;
 }
  #LEDUp{
+ 	position: relative;
  	transform: rotate(-90deg);
  	width: 10%;
  	height: 10%;
  	float: right;
+ 	top: 30px;
  }
