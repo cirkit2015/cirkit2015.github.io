@@ -43,3 +43,21 @@ col{
 	border-radius: 10px;
 	height: calc(100vh - 100px);
 }
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.puzzlePieces {
+  float: left;
+}
+
+.puzzlePieces>img {
+  width: 200px;
+  height: 200px;
+}
+
+#photonTool {
+  transform: rotate(270deg);
+}
