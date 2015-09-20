@@ -98,7 +98,7 @@ img {
  	top: 30px;
  }
  
- #LEDBulb {
+ #LEDBulb>img {
  	position: relative;
  	clear: left;
  	top: 40px;
