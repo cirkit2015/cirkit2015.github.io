@@ -99,5 +99,7 @@ img {
  }
  
  #LEDBulb {
+ 	position: relative;
  	clear: left;
+ 	top: 40px;
  }
