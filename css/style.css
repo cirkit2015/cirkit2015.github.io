@@ -98,9 +98,12 @@ img {
  	top: 30px;
  }
  
- #LEDBulb>img {
+ #LEDBulb {
  	position: relative;
  	clear: left;
  	top: 40px;
- 	transform: rotate(180deg);
+ }
+ #LEDBulb>img {
+ 	  	transform: rotate(180deg);
+
  }
