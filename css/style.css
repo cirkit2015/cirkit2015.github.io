@@ -1,10 +1,10 @@
 @font-face{
-	font-family: "Comic Filled Marta Van Eck";
+	font-family: 'Play', sans-serif, "Comic Filled Marta Van Eck";
 	src: url(http://www.fontspace.com/marta-van-eck-designs/comic-filled-marta-van-eck?text=CIRKIT&fontsize=80&foreground=000000&background=FFFFFF);
 }
 
 h1{
-	font-family: "Subway";
+	font-family: 'Play', sans-serif, "Subway";
 }
 
 html,body,.container-fluid{
@@ -30,16 +30,16 @@ col{
 
 #Tools{
 	text-align: center;
-	font-family: "Subway";
+	font-family: 'Play', sans-serif, "Subway";
 }
 #Canvas{
 	text-align: center;
-	font-family: "Subway";
+	font-family: 'Play', sans-serif, "Subway";
 }
 
 #Tutorial{
 	text-align: center;
-	font-family: "Subway";
+	font-family: 'Play', sans-serif, "Subway";
 }
 
 .border1{
