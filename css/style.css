@@ -102,4 +102,5 @@ img {
  	position: relative;
  	clear: left;
  	top: 40px;
+ 	transform: rotate(180deg);
  }
