@@ -10,6 +10,10 @@ h1{
 html,body,.container-fluid{
 	height:100%;
 }
+
+body{
+	background-color: #292A30;
+}
 .container{
 	width:100;
 }
