@@ -80,3 +80,7 @@ img {
 #USB {
 	transform:rotate(180deg);
 }
+
+#LEDDown{
+	transform: rotate(90deg);
+}
