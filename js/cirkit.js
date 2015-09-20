@@ -37,12 +37,12 @@ function dropPhoton(event){
 }
 
 function dragLEDBulb(event){
-  event.dataTransfer.setData("LEDBulb", event.target.id);
+  event.dataTransfer.setData("LED", event.target.id);
 }
 
 function dropLEDBulb(event){
   event.preventDefault();
-  var data = event.dataTransfer.getData("LEDBulb");
+  var data = event.dataTransfer.getData("LED");
   event.target.appendChild(document.getElementById(data));
   
 }
