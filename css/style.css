@@ -120,5 +120,9 @@ img {
  
  ol {
  	text-align: left;
- 	padding: 25px;
+ }
+ 
+ li{
+ 	 	padding: 25px;
+
  }
