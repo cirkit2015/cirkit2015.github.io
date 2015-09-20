@@ -1,10 +1,10 @@
 @font-face{
-	font-family: "Subway";
-	src: url(../fonts/SubwayLogo.ttf);
+	font-family: "Comic Filled Marta Van Eck";
+	src: url(http://www.fontspace.com/marta-van-eck-designs/comic-filled-marta-van-eck?text=CIRKIT&fontsize=80&foreground=000000&background=FFFFFF);
 }
 
 h1{
-	font-family: "Subway";
+	font-family: "Comic Filled Marta Van Eck";
 }
 
 html,body,.container-fluid{
@@ -20,20 +20,20 @@ col{
 
 #Tools{
 	text-align: center;
-	font-family: "Subway";
+	font-family: "Comic Filled Marta Van Eck";
 }
 #Canvas{
 	text-align: center;
-	font-family: "Subway";
+	font-family: "Comic Filled Marta Van Eck";
 }
 
 #Tutorial{
 	text-align: center;
-	font-family: "Subway";
+	font-family: "Comic Filled Marta Van Eck";
 }
 
 .border1{
-	background-color: lightblue;
+	background-color: yellow;
 	margin-top:10px;
 	border: black medium solid;
 	border-radius: 10px;
@@ -41,7 +41,7 @@ col{
 }
 
 .border2{
-	background-color: lightyellow;
+	background-color: blue;
 	margin-top:10px;
 	border: black medium solid;
 	border-radius: 10px;
@@ -49,7 +49,7 @@ col{
 
 }
 .border3{
-	background-color: lightblue;
+	background-color: red;
 	margin-top:10px;
 	border: black medium solid;
 	border-radius: 10px;
