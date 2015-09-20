@@ -76,3 +76,7 @@ img {
 #photonTool {
   transform: rotate(90deg);
 }
+
+#USB {
+	transform:rotate(90deg);
+}
