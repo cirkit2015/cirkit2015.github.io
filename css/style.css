@@ -84,3 +84,6 @@ img {
 #LEDDown{
 	transform: rotate(90deg);
 }
+ #LEDUp{
+ 	transform: rotate(-90deg);
+ }
