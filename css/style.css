@@ -94,6 +94,6 @@ img {
  	transform: rotate(-90deg);
  	width: 10%;
  	height: 10%;
- 	float: right;
+ 	float: left;
  	top: 30px;
  }
