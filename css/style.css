@@ -85,9 +85,11 @@ img {
 	transform: rotate(90deg);
 	width: 10%;
 	height: 10%;
+	float: clear;
 }
  #LEDUp{
  	transform: rotate(-90deg);
  	width: 10%;
+ 	float: left;
  	height: 10%;
  }
