@@ -13,8 +13,12 @@ html,body,.container-fluid{
 
 body{
 	background-color: #292A30;
-	color: lightyellow;
 }
+
+#welcome{
+	color: lightyellow;;
+}
+
 .container{
 	width:100;
 }
